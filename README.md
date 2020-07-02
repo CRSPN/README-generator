@@ -1,8 +1,8 @@
-# lkj 
+# Eureka
 
 ## Description 
 
-you
+This is a command line application to create specialized README.md files.
 
 ## Table of Contents (Optional)
 
@@ -20,12 +20,12 @@ undefined
 
 ## Usage 
 
-us
+To build READMEs for future projects.
 
 
 ## Credits
 
-guy
+CRSPN
 
 
 ## License
@@ -37,10 +37,11 @@ MIT
 
 twitter
 
+
 ## Contributing
 
-me
+However they wish.
 
 ## Tests
 
-me
+none

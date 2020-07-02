@@ -19,7 +19,7 @@ const questions = [
     {
         type:"input",
         message:"What needs to be installed for your project?",
-        name:"install"
+        name:"installation"
     },
     {
         type:"input",
@@ -50,13 +50,13 @@ const questions = [
     },
     {
         type:"input",
-        message:"",
+        message:"How will you test this project?",
         name:"tests"
     },
 ];
 
 
-const badges = 
+
 
 // function to write README file
 function writeToFile(fileName, data) {
@@ -68,7 +68,7 @@ function init() {
         var data = {
             title: userInput.title,
             description: userInput.description,
-            installation: userInput.install,
+            installation: userInput.installation,
             usage: userInput.usage,
             credits: userInput.credits,
             license: userInput.license,

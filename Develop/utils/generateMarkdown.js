@@ -20,7 +20,7 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Installation
 
-${data.install}
+${data.installation}
 
 ## Usage 
 
