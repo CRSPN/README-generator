@@ -1,8 +1,8 @@
-# Generator
+# node README file generating command line app.
 
 ## Description 
 
-a builder for my future README files
+An application built with node/inquirer, to streamline future creation of readme files by creating the markdown dynammically saving time and brain power.
 
 ## Table of Contents (Optional)
 
@@ -16,32 +16,32 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Installation
 
-node/NPM
+node (NPM)
 
 ## Usage 
 
-to build readme files from command line
+used to make a professional looking README for any current developer projects
 
 
 ## Credits
 
-me CRSPN
+CRSPN
 
 
 ## License
 
-GPL v3
+MIT
  
 
 ## Badges
 
-open source
+awesome
 
 
 ## Contributing
 
-any way they wish
+No special way, (any way they prefer to)
 
 ## Tests
 
-with the vsCode terminal
+Can be tested by running "node index.js" in the command line of VScode terminal. Also demostration can be viewed here. https://drive.google.com/file/d/1kirJShT_Pvoh7lMKkH75F9_ReA1fEDzy/view
