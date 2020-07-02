@@ -1,8 +1,8 @@
-# Eureka
+# Generator
 
 ## Description 
 
-This is a command line application to create specialized README.md files.
+a builder for my future README files
 
 ## Table of Contents (Optional)
 
@@ -16,32 +16,32 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Installation
 
-undefined
+node/NPM
 
 ## Usage 
 
-To build READMEs for future projects.
+to build readme files from command line
 
 
 ## Credits
 
-CRSPN
+me CRSPN
 
 
 ## License
 
-MIT
+GPL v3
  
 
 ## Badges
 
-twitter
+open source
 
 
 ## Contributing
 
-However they wish.
+any way they wish
 
 ## Tests
 
-none
+with the vsCode terminal
